@@ -1,0 +1,1 @@
+# A is not visible inside the invoication because the invocation of each is inside my_value, which is a method definition and is self-contained in rspect to local variables.

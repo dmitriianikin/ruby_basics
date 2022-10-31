@@ -1,0 +1,1 @@
+1 #because variable assignment still returns the value even if the variable wasn't used anywhere

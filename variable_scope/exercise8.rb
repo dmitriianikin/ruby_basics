@@ -1,0 +1,1 @@
+# error // there is no a variable defined in the outer scope, just a variable defined in the method, so that variable is local to the block (which means we can't access it)

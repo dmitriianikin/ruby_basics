@@ -1,0 +1,1 @@
+# 7 because method definitions are self-contained

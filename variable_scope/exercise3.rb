@@ -1,0 +1,1 @@
+# 7 again as method definitions are self-contained with respect to local variables. Plus numbers are immutable.

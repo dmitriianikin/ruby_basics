@@ -1,0 +1,1 @@
+# error // method definitions are entirely self-contained and have their own scope. So they can't see the local variable initialized outside the method. And the same vis-a-versa.

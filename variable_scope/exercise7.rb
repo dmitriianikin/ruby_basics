@@ -1,0 +1,1 @@
+# 3 // Blocks can access and modify local variables that were defined outside the block. The each method prints out the values 1, 2, and 3 in a list - with 3 being the final output, that's what the variable a will return.

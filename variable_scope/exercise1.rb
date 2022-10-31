@@ -1,0 +1,1 @@
+# 7 because my_value does not mutate the variable.

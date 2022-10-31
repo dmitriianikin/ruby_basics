@@ -1,0 +1,1 @@
+# Ruby looks for variables in the inner scope first, before looking into outer. So the puts value is 7. Need to choose a different name for the variable if want to mutate it.
